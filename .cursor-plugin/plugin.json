@@ -1,0 +1,14 @@
+{
+  "name": "catchmycall",
+  "displayName": "CatchMyCall",
+  "version": "0.2.0",
+  "description": "Place calls, send WhatsApp, manage contacts, leads and campaigns, and read call records and billing.",
+  "author": {
+    "name": "Teeoff Technologies Private Limited",
+    "email": "support@catchmycall.ai"
+  },
+  "homepage": "https://app.catchmycall.ai/docs/connector",
+  "license": "MIT",
+  "keywords": ["mcp", "telephony", "voice", "whatsapp", "calls", "crm", "leads", "catchmycall"],
+  "logo": "assets/logo.png"
+}
